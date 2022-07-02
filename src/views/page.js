@@ -12,8 +12,8 @@ const Page = (props) => {
         <meta property="og:title" content="Page - exported project" />
       </Helmet>
       <img
-        src="https://images.unsplash.com/photo-1656764984949-0fdeee140246?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=Mnw5MTMyMXwwfDF8YWxsfDEzfHx8fHx8Mnx8MTY1Njc3NjI5MA&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200"
         alt="image"
+        src="https://images.unsplash.com/photo-1656764984949-0fdeee140246?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=Mnw5MTMyMXwwfDF8YWxsfDEzfHx8fHx8Mnx8MTY1Njc3NjI5MA&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200"
         className="page-image"
       />
       <video
@@ -27,8 +27,8 @@ const Page = (props) => {
       ></iframe>
       <form className="page-form"></form>
       <img
-        src="https://images.unsplash.com/photo-1656769567682-4b4162ee5a44?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=Mnw5MTMyMXwwfDF8YWxsfDE0fHx8fHx8Mnx8MTY1Njc3NjI5MA&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200"
         alt="image"
+        src="https://images.unsplash.com/photo-1656769567682-4b4162ee5a44?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=Mnw5MTMyMXwwfDF8YWxsfDE0fHx8fHx8Mnx8MTY1Njc3NjI5MA&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=200"
         className="page-image1"
       />
     </div>
