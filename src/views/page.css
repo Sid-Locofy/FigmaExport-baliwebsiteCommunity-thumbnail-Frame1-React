@@ -1,0 +1,29 @@
+.page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.page-image {
+  width: 100px;
+  object-fit: cover;
+}
+.page-video {
+  width: 320px;
+  height: 180px;
+}
+.page-iframe {
+  width: 320px;
+  height: 200px;
+}
+.page-form {
+  width: 200px;
+  height: 100px;
+}
+.page-image1 {
+  width: 100px;
+  object-fit: cover;
+}
